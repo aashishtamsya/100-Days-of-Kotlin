@@ -13,4 +13,4 @@ A collection of Android projects made while learning to develop Android Applicat
 
 | Source Code        | Description           | Demo  | Time  |
 | ------------- |:-------------:| -----:| -----:|
-| Simple Calculator      | Simple Calculator Android App written in Kotlin. | ![alt text][/Resources/SimpleCalculator.gif] | 2hr - 3hr approx. |
+| Simple Calculator      | Simple Calculator Android App written in Kotlin. | ![Simple Calculator Demo](https://github.com/aashishtamsya/100-Days-of-Kotlin/blob/master/Resources/SimpleCalculator.gif "Simple Calculator Demo")) | 2hr - 3hr approx. |
