@@ -22,4 +22,4 @@ A collection of Android projects made while learning to develop Android Applicat
 ### Find My Age
 | Source Code        | Description           | Demo  | Time  |
 | ------------- |:-------------:| :-----:| -----:|
-| [Find My Age App]()      | Find my age App written in Kotlin. | ![Find My Age](https://github.com/aashishtamsya/100-Days-of-Kotlin/blob/master/Resources/TableApp.gif "Find My Age Preview") | 2hr - 3hr approx. |
+| [Find My Age App]()      | Find my age App written in Kotlin. | ![Find My Age](https://github.com/aashishtamsya/100-Days-of-Kotlin/blob/master/Resources/FindMyAgePreview.gif "Find My Age Preview") | 2hr - 3hr approx. |
