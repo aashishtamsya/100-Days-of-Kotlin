@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunrise</string>
+    <string name="get_sunsire_button_title">Get Sunrise</string>
+    <string name="city_hint">Enter City Name</string>
+</resources>
