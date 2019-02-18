@@ -9,6 +9,7 @@ A collection of Android projects made while learning to develop Android Applicat
 - [Find My Age](#find-my-age)
 - [Tic Tac Toe](#tic-tac-toe)
 - [Sunrise API](#sunrise-api)
+- [Notes](#notes)
 
 ### Simple Calculator
 | Source Code        | Description           | Demo  | Time  |
@@ -34,4 +35,9 @@ A collection of Android projects made while learning to develop Android Applicat
 | Source Code        | Description           | Demo  | Time  |
 | ------------- |:-------------:| :-----:| -----:|
 | [Sunrise API]()      | Sunrise app written in Kotlin. | ![Sunrise API](https://github.com/aashishtamsya/100-Days-of-Kotlin/blob/master/Resources/SunrisePreview.gif "Sunrise API Preview") | 4hr+ approx. |
+
+### Notes
+| Source Code        | Description           | Demo  | Time  |
+| ------------- |:-------------:| :-----:| -----:|
+| [Notes]()      | Notes app written in Kotlin. | ![Notes](https://github.com/aashishtamsya/100-Days-of-Kotlin/blob/master/Resources/NotesPreview.gif "Notes Preview") | 1d+ approx. |
 
