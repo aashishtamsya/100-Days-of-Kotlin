@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnlineTicTacToe</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="login_button_title">Login</string>
+    <string name="signup_button_title">Sign Up</string>
+    <string name="verify_email_hint">Verify Email</string>
+    <string name="signout_button_title">Sign Out</string>
+    <string name="accept_button_title">Accept</string>
+    <string name="cancel_button_title">Cancel</string>
+</resources>
