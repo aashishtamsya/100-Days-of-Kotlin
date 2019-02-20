@@ -6,6 +6,6 @@
     <string name="signup_button_title">Sign Up</string>
     <string name="verify_email_hint">Verify Email</string>
     <string name="signout_button_title">Sign Out</string>
+    <string name="request_button_title">Request</string>
     <string name="accept_button_title">Accept</string>
-    <string name="cancel_button_title">Cancel</string>
 </resources>

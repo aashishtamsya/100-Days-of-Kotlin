@@ -7,13 +7,25 @@ import java.io.Serializable
 class User: Serializable, Encoder {
     companion object {
         val TAG = "User.class"
+
+        fun decode(data: Map<String, Any>?): User? {
+            if (data == null) return null
+            val uid = data["uid"] as? String
+            val email = data["email"] as? String
+            val challenge = Challenge.decode(data["challenge"] as? Map<String, Any>)
+
+            if (uid == null) return null
+            return User(uid, email, challenge)
+        }
     }
     var uid: String? = null
     var email: String? = null
+    var challenge: Challenge? = null
 
-    constructor(uid: String? = null, email: String? = null) {
+    constructor(uid: String? = null, email: String? = null, challenge: Challenge? = null) {
         this.uid = uid
         this.email = email
+        this.challenge = challenge
     }
 
     constructor(user: FirebaseUser? = null) {
@@ -32,4 +44,6 @@ class User: Serializable, Encoder {
         }
         return hashMap
     }
+
+
 }
